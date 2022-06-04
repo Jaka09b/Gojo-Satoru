@@ -19,14 +19,14 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['79911716214']
-global.premium = ['79911716214']
-global.ownernomer = '79911716214'
+global.owner = ['6285785694474']
+global.premium = ['6285785694474']
+global.ownernomer = '6285785694474'
 global.ownername = 'Jaka-Kun🗿'
 global.botname = 'Gojo-Satoru'
 global.footer = '© ᴹᴿ᭄ JakaOfcོ×፝֟͜×.'
 global.ig = 'https://Instagram.com/zetwo_botz'
-global.region = 'Russia, Moskow'
+global.region = 'Japan, Sibuya'
 global.sc = 'Nyari sc banh?🐦'
 global.myweb = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
 global.packname = 'Gojo-Satoru'
